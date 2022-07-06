@@ -13,7 +13,7 @@ window.requestAnimFrame = (function () {
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-const customText = urlParams.get('text') || 'FOLLOW TIKTOK @dimasmiftah';
+const customText = urlParams.get('text') || 'cantik, jangan lupa senyum ya!!, its not bad life its just bad day :)';
 const space = '                        ';
 const txt = space + customText;
 
